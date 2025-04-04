@@ -14,14 +14,6 @@ located [here](https://www.figma.com/file/sY1EuiCJTbcP6PsnNNizm1/TaskSphere?type
 
 See [CONTRIBUTION_GUIDE.md](CONTRIBUTION_GUIDE.md)
 
-### Contact Me
-
-- Twitter: [@popestrings](https://twitter.com/popestrings)
-- Linkedin: [fola-oluwafemi](https://linkedin.com/in/fola-oluwafemi)
-- Email: [folaoluwafemi55@gmail.com](mailto:folaoluwafemi55@gmail.com)
-- Phone: [+234 816 958 3715](tel:+2348169583715)
-- Whatsapp: [@dart_god](https://wa.me/2348169583715)
-
 
 ## Have a glimpse of the app 😉
 <div>
@@ -36,7 +28,7 @@ See [CONTRIBUTION_GUIDE.md](CONTRIBUTION_GUIDE.md)
     <p>
       <img width=33% src="https://github.com/folaoluwafemi/task_sphere/assets/89414401/c53736d9-1ebf-4675-9e71-bde0b088cac9" alt="Home Screen">
       <img width=33% src="https://github.com/folaoluwafemi/task_sphere/assets/89414401/1ec73810-3f44-40a5-82a4-bb7ec0ad1635" alt="Search screen with a search in progress">
-      <img width=33% src="https://github.com/folaoluwafemi/task_sphere/assets/89414401/3b3194ca-e8bc-48b7-b7d7-00d6e5288833" alt="About design and development screen">
+    
     </p>
 </div>
 
