@@ -18,12 +18,6 @@ If you find a bug, please create an issue for it first, so we can discuss it.
 6. Push your changes to your forked repository
 7. Create a pull request to this repository
 8. Wait for your pull request to be reviewed and merged
-9. Celebrate 🎉
-    - tag me at [@popestrings](https://twitter.com/popestrings) on twitter
-    - tag me at [fola-oluwafemi](https://linkedin.com/in/fola-oluwafemi) on Linkedin
-10. Repeat
-11. Profit from life
-12. Buy me a coffee ☕
 
 Note that your pull request will be reviewed and merged if it meets the following criteria:
 1. It is not a duplicate of an existing issue
